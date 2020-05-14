@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-# we have used Tweet tokenizer instead of word_tokenize to avoid splitting words with apostrophe for example -let's
-#Give input sentence at line 48
-
-""" team2  -----Saroja Kondamudi,Bhuvana Vellanki,Ishan Desai ------"""
 
 import nltk,re
 from nltk.tokenize import sent_tokenize
